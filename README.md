@@ -20,4 +20,4 @@ Code and results for the paper "Multimodal Deep Learning for Flood and Landslide
 Adam, learning rate 1e-4, 30 epochs, seeds 0, 1, 2. Checkpoint chosen on validation IoU only; metrics reported on test and Bolivia chips (mean ± SD).
 
 ## Contact
-[Author name], Alliance University, [email]
+[SMRUTHI.D], Alliance University, [nairPHD726@stu.alliance.edu.in]
